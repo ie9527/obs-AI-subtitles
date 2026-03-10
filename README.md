@@ -1,4 +1,4 @@
-# 小喵云字幕系统 (xiaomiao-logger)
+# OBS邪修AI字幕系统 (obs-AI-subtitles)
 
 一个基于 Vue 3 和 Socket.io 的实时字幕同步系统，专为 OBS 直播场景设计。它允许用户在控制端输入文本，并实时（包括输入法组字过程）将字幕显示在 OBS 的浏览器源中，同时自动保存为 SRT 字幕文件。
 邪修使用说明:使用手机XXX语音输入法!打开 xxx.com,然后OBS导入网页源,可以邪修使用AI字幕系统,你别说!还挺好用
@@ -75,7 +75,7 @@ npm start
 ## 📂 项目结构
 
 ```
-xiaoan-logger/
+obs-AI-subtitles/
 ├── dist/                   # 构建后的静态文件
 ├── src/
 │   ├── components/         # Vue 组件
@@ -95,5 +95,6 @@ xiaoan-logger/
 ## 📄 许可证
 
 本项目采用 [MIT](LICENSE) 许可证。
+
 
 
