@@ -1,4 +1,4 @@
-# 小喵云字幕系统 (xiaoan-logger)
+# 小喵云字幕系统 (xiaomiao-logger)
 
 一个基于 Vue 3 和 Socket.io 的实时字幕同步系统，专为 OBS 直播场景设计。它允许用户在控制端输入文本，并实时（包括输入法组字过程）将字幕显示在 OBS 的浏览器源中，同时自动保存为 SRT 字幕文件。
 
@@ -95,3 +95,4 @@ xiaoan-logger/
 ## 📄 许可证
 
 本项目采用 [MIT](LICENSE) 许可证。
+
