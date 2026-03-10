@@ -1,0 +1,37 @@
+{
+  "name": "xiaoan-logger",
+  "version": "1.0.0",
+  "description": "实时日志更新系统",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "logger",
+    "websocket",
+    "vue3"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@monaco-editor/loader": "^1.7.0",
+    "@vitejs/plugin-vue": "^6.0.4",
+    "@vueup/vue-quill": "^1.2.0",
+    "@vueuse/core": "^14.2.1",
+    "axios": "^1.13.5",
+    "chokidar": "^5.0.0",
+    "element-plus": "^2.13.2",
+    "express": "^5.2.1",
+    "monaco-editor": "^0.55.1",
+    "quill": "^2.0.3",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3",
+    "vue": "^3.5.28",
+    "vue-router": "^5.0.3"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
